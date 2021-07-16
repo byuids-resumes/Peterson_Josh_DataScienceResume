@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Josh PEterson's Resume
+title: Josh Peterson's Resume
 ---
 # Josh Peterson
 A recently graduated student from BYU-Idaho
